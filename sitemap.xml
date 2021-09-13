@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://zijungao.github.io</loc>
+<loc>/news/announcement_1/</loc>
+<lastmod>2021-07-19T21:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>https://zijungao.github.io/projects</loc>
+<loc>/projects/1_project/</loc>
+<lastmod>2021-09-12T21:53:36-07:00</lastmod>
 </url>
 <url>
-<loc>https://zijungao.github.io/publications</loc>
+<loc>/</loc>
+</url>
+<url>
+<loc>/blog/</loc>
+</url>
+<url>
+<loc>/projects/</loc>
+</url>
+<url>
+<loc>/publications/</loc>
+</url>
+<url>
+<loc>/assets/pdf/example_pdf.pdf</loc>
+<lastmod>2021-07-15T22:38:19-07:00</lastmod>
 </url>
 </urlset>
